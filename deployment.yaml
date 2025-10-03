@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: my-app
-        image: yuqingwang2020/my-app:96cb925528800c465289f0d692a3ac4d1f2bb608
+        image: yuqingwang2020/my-app:6012d4bf3d1a7aef3e11d07a191462cc67ea96db
         ports:
         - containerPort: 80
